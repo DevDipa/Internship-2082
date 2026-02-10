@@ -1,0 +1,15 @@
+C:\Users\LENOVO\Desktop\Pratham\Internship-2082\CalculatorApp\obj\Debug\net8.0\CalculatorApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\Pratham\Internship-2082\CalculatorApp\obj\Debug\net8.0\CalculatorApp.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\Pratham\Internship-2082\CalculatorApp\obj\Debug\net8.0\CalculatorApp.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\Pratham\Internship-2082\CalculatorApp\obj\Debug\net8.0\CalculatorApp.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\Pratham\Internship-2082\CalculatorApp\obj\Debug\net8.0\CalculatorApp.sourcelink.json
+C:\Users\LENOVO\Desktop\Pratham\Internship-2082\CalculatorApp\bin\Debug\net8.0\CalculatorApp.exe
+C:\Users\LENOVO\Desktop\Pratham\Internship-2082\CalculatorApp\bin\Debug\net8.0\CalculatorApp.deps.json
+C:\Users\LENOVO\Desktop\Pratham\Internship-2082\CalculatorApp\bin\Debug\net8.0\CalculatorApp.runtimeconfig.json
+C:\Users\LENOVO\Desktop\Pratham\Internship-2082\CalculatorApp\bin\Debug\net8.0\CalculatorApp.dll
+C:\Users\LENOVO\Desktop\Pratham\Internship-2082\CalculatorApp\bin\Debug\net8.0\CalculatorApp.pdb
+C:\Users\LENOVO\Desktop\Pratham\Internship-2082\CalculatorApp\obj\Debug\net8.0\CalculatorApp.dll
+C:\Users\LENOVO\Desktop\Pratham\Internship-2082\CalculatorApp\obj\Debug\net8.0\refint\CalculatorApp.dll
+C:\Users\LENOVO\Desktop\Pratham\Internship-2082\CalculatorApp\obj\Debug\net8.0\CalculatorApp.pdb
+C:\Users\LENOVO\Desktop\Pratham\Internship-2082\CalculatorApp\obj\Debug\net8.0\CalculatorApp.genruntimeconfig.cache
+C:\Users\LENOVO\Desktop\Pratham\Internship-2082\CalculatorApp\obj\Debug\net8.0\ref\CalculatorApp.dll
