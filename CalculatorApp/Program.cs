@@ -22,12 +22,18 @@ public class CalculatorApp
         }
         else
         {
-            Console.WriteLine("Invalid Credentials:( \n Please try again.");
+            Console.WriteLine("Invalid credentials:( \n Please try again.");
         }
     }
 
     public static void Menu()
-    {
+    { 
+		Console.Write("First Number: ");
+        int num1 = Convert.ToInt32(Console.ReadLine());
+        Console.Write("Second Number: ");
+        int num2 = Convert.ToInt32(Console.ReadLine());
+		Console.WriteLine("\n");
+
         Console.WriteLine("**********************************************************************");
         Console.WriteLine("                                    MENU");
         Console.WriteLine("**********************************************************************");
@@ -37,17 +43,31 @@ public class CalculatorApp
         Console.WriteLine("4) Division");
         Console.WriteLine("**********************************************************************");
         Console.WriteLine("\n");
-        Console.Write("Choice: ");
+        
+        //user inputs
+        Console.Write("Choice(1-4): ");
         int choice = Convert.ToInt32(Console.ReadLine());
-        //Option(choice);
+        
+        //switch for addressing all the options
+        switch (choice)
+        {
+            case 1: Console.WriteLine($"Result for {num1} + {num2} is {Computation.Add(num1, num2)}.");
+                break;
+            
+            case 2: Console.WriteLine($"Result for {num1} - {num2} is {Computation.Subtract(num1, num2)}.");
+                break;
+            
+            case 3: Console.WriteLine($"Result for {num1} * {num2} is {Computation.Multiply(num1, num2)}.");
+                break;
+            
+            case 4: Console.WriteLine($"Result for {num1} / {num2} is {Computation.Divide(num1, num2)}.");
+                break;
+            
+            default: Console.WriteLine("Invalid choice:( Redirecting to the menu...");
+                Console.WriteLine("\n");
+                Menu();
+                break;
+        }
     }
 } 
 
-//another class for sheer arithmetic calculations
-public class Calculation
-{
-    /*public int Option(int option)
-    {
-        
-    }*/
-}
