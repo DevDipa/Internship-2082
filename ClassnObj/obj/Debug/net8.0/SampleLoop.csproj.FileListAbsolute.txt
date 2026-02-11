@@ -1,0 +1,15 @@
+C:\Users\LENOVO\Desktop\Pratham\Internship-2082\ClassnObj\obj\Debug\net8.0\SampleLoop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\Pratham\Internship-2082\ClassnObj\obj\Debug\net8.0\SampleLoop.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\Pratham\Internship-2082\ClassnObj\obj\Debug\net8.0\SampleLoop.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\Pratham\Internship-2082\ClassnObj\obj\Debug\net8.0\SampleLoop.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\Pratham\Internship-2082\ClassnObj\obj\Debug\net8.0\SampleLoop.sourcelink.json
+C:\Users\LENOVO\Desktop\Pratham\Internship-2082\ClassnObj\bin\Debug\net8.0\SampleLoop.exe
+C:\Users\LENOVO\Desktop\Pratham\Internship-2082\ClassnObj\bin\Debug\net8.0\SampleLoop.deps.json
+C:\Users\LENOVO\Desktop\Pratham\Internship-2082\ClassnObj\bin\Debug\net8.0\SampleLoop.runtimeconfig.json
+C:\Users\LENOVO\Desktop\Pratham\Internship-2082\ClassnObj\bin\Debug\net8.0\SampleLoop.dll
+C:\Users\LENOVO\Desktop\Pratham\Internship-2082\ClassnObj\bin\Debug\net8.0\SampleLoop.pdb
+C:\Users\LENOVO\Desktop\Pratham\Internship-2082\ClassnObj\obj\Debug\net8.0\SampleLoop.dll
+C:\Users\LENOVO\Desktop\Pratham\Internship-2082\ClassnObj\obj\Debug\net8.0\refint\SampleLoop.dll
+C:\Users\LENOVO\Desktop\Pratham\Internship-2082\ClassnObj\obj\Debug\net8.0\SampleLoop.pdb
+C:\Users\LENOVO\Desktop\Pratham\Internship-2082\ClassnObj\obj\Debug\net8.0\SampleLoop.genruntimeconfig.cache
+C:\Users\LENOVO\Desktop\Pratham\Internship-2082\ClassnObj\obj\Debug\net8.0\ref\SampleLoop.dll
