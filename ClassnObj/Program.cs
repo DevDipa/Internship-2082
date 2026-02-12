@@ -15,10 +15,10 @@
 //BETTER
 private string? _name;
 
-public string? Name{
-get{return _name;}
-set{_name = value;}
-}
+public string? Name{ get; set; } /*this is equivalent to the below:
+                                   get{return _name;}
+                                   set{_name = value;}
+                                   }*/ 
 }
 
 public class ClassnObj
