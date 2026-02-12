@@ -1,0 +1,15 @@
+C:\Users\LENOVO\Desktop\Pratham\Internship-2082\LekhastraMini\bin\Debug\net8.0\LekhastraMini.exe
+C:\Users\LENOVO\Desktop\Pratham\Internship-2082\LekhastraMini\bin\Debug\net8.0\LekhastraMini.deps.json
+C:\Users\LENOVO\Desktop\Pratham\Internship-2082\LekhastraMini\bin\Debug\net8.0\LekhastraMini.runtimeconfig.json
+C:\Users\LENOVO\Desktop\Pratham\Internship-2082\LekhastraMini\bin\Debug\net8.0\LekhastraMini.dll
+C:\Users\LENOVO\Desktop\Pratham\Internship-2082\LekhastraMini\bin\Debug\net8.0\LekhastraMini.pdb
+C:\Users\LENOVO\Desktop\Pratham\Internship-2082\LekhastraMini\obj\Debug\net8.0\LekhastraMini.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\Pratham\Internship-2082\LekhastraMini\obj\Debug\net8.0\LekhastraMini.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\Pratham\Internship-2082\LekhastraMini\obj\Debug\net8.0\LekhastraMini.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\Pratham\Internship-2082\LekhastraMini\obj\Debug\net8.0\LekhastraMini.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\Pratham\Internship-2082\LekhastraMini\obj\Debug\net8.0\LekhastraMini.sourcelink.json
+C:\Users\LENOVO\Desktop\Pratham\Internship-2082\LekhastraMini\obj\Debug\net8.0\LekhastraMini.dll
+C:\Users\LENOVO\Desktop\Pratham\Internship-2082\LekhastraMini\obj\Debug\net8.0\refint\LekhastraMini.dll
+C:\Users\LENOVO\Desktop\Pratham\Internship-2082\LekhastraMini\obj\Debug\net8.0\LekhastraMini.pdb
+C:\Users\LENOVO\Desktop\Pratham\Internship-2082\LekhastraMini\obj\Debug\net8.0\LekhastraMini.genruntimeconfig.cache
+C:\Users\LENOVO\Desktop\Pratham\Internship-2082\LekhastraMini\obj\Debug\net8.0\ref\LekhastraMini.dll
