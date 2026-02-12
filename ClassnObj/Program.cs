@@ -15,24 +15,30 @@
 //BETTER
 private string? _name;
 
-public string? Name{ get; set; } /*this is equivalent to the below:
-                                   get{return _name;}
-                                   set{_name = value;}
-                                   }*/ 
+//public static string? Name{ protected get; protected set; } --can't set access modifiers to both accessors at a time
+
+public static string? Name{ get; protected set; } /*this is equivalent to the below:
+                                                    get{return _name;}
+                                                    set{_name = value;}
+                                                    }*/ 
 }
 
-public class ClassnObj
+public class ClassnObj : Laptop
 {
     public static void Main(string[] args)
     {
         Console.Write("Laptop's Name: ");
         string lName = Console.ReadLine();
         
-        //instance of the Laptop class
-        Laptop l = new Laptop();
-        
-        l.Name = lName;
-        Console.WriteLine($"Your entered laptop name is {l.Name}");
+        /*
+          --when get and set are PUBLIC by default--
+          instance of the Laptop class
+          Laptop l = new Laptop();
+		  l.Name = lName;
+          Console.WriteLine($"Your entered laptop name is {l.Name}"); */
+
+        Name = lName;
+        Console.WriteLine($"Your entered laptop name is {Name}");
     }
 }
 
